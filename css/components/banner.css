@@ -1,0 +1,9 @@
+.banner {
+  background-image: url(../../images/gardening.jpg);
+  background-size: cover;
+  background-position: 0 65%;
+  height: 500px;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}

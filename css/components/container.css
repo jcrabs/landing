@@ -1,0 +1,10 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.banner-text {
+  color: #fefae0;
+  text-align: right;
+}

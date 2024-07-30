@@ -1,0 +1,24 @@
+.footer {
+  background-color: #283618;
+  color: #dda15e;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Playwrite BE WAL", cursive;
+  font-style: italic;
+}
+
+.footer-container {
+  text-align: center;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-icons img {
+  width: 50px;
+  padding: 8px;
+}
